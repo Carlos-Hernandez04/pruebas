@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1649614865 source:c:\users\macho\onedrive\escritorio\crud departamentos\crudprueba\main.cpp
+	<iostream>
+	"Departamentos.h"
+
+1649614865 c:\users\macho\onedrive\escritorio\crud departamentos\crudprueba\include\departamentos.h
+	<iostream>
+
+1649616060 source:c:\users\macho\onedrive\escritorio\crud departamentos\crudprueba\src\departamentos.cpp
+	<iostream>
+	"Departamentos.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
